@@ -1,0 +1,1 @@
+sphinx-build -a -b html . "F:\sync\code\fireattack.github.io\mahoromaticdb"
